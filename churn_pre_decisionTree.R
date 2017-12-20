@@ -3,8 +3,6 @@
 #                   using decision Tree                                #
 
 
-setwd("F:/aegis/R/programs/R-prc")
-
 churn_data<-read.csv("churn.csv",stringsAsFactors=T)
 
 str(churn_data)
